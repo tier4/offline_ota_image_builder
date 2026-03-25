@@ -66,7 +66,7 @@ Offline OTA image's rootfs contains a `manifest.json` file with a single JSON ob
 
 ## How to use
 
-The pre-built binary for amd64 target is available at [offline_ota_image_builder release v1.0.0](https://github.com/tier4/ota-client/releases/tag/offline_ota_image_builder_v1.0.0).
+The pre-built binary for amd64 target is available at [offline_ota_image_builder release v1.0.0](https://github.com/tier4/offline_ota_image_builder/releases/tag/offline_ota_image_builder_v1.0.0).
 
 ### CLI usage
 
