@@ -23,7 +23,7 @@ classifiers = [
 version = "1.0.0"
 dependencies = [
   "ota-image-libs@https://github.com/tier4/ota-image-libs/releases/download/v0.4.0/ota_image_libs-0.4.0-py3-none-any.whl#sha256:d14e73519063c390330b94da6f4d1348b582c79e3e382e148dde01992b29e807",
-  "simple-sqlite3-orm>=0.12,<0.14",
+  "simple-sqlite3-orm@https://github.com/tier4/simple-sqlite3-orm/releases/download/v0.13.2/simple_sqlite3_orm-0.13.2-py3-none-any.whl#sha256:fce73a2ba338a76388a12508c4682c4f8ecc9376ebcbc880e05e63edfa83d226",
 ]
 
 [dependency-groups]
